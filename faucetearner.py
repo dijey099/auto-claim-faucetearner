@@ -1,6 +1,5 @@
 import os
 import time
-from tqdm import tqdm
 from termcolor import colored
 from dotenv import load_dotenv
 from selenium import webdriver
